@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-function Experiment() {
+function Pokemon() {
   const [pokemonData, setPokemonData] = useState([]);
 
   useEffect(() => {
@@ -45,4 +45,4 @@ function Experiment() {
   );
 }
 
-export default Experiment;
+export default Pokemon;
