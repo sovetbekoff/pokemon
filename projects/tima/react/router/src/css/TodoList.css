@@ -1,0 +1,9 @@
+.editInp {
+  width: 50%;
+  border-radius: 14px;
+  border: 2px solid black;
+}
+
+.btns {
+  display: flex;
+}

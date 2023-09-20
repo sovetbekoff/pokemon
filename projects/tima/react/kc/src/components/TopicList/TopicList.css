@@ -1,0 +1,8 @@
+.topic-list-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.topic-item {
+  margin: 10px;
+}
